@@ -16,7 +16,6 @@ def output_to_file(filename, text):
     with open(filename, 'w') as file:
         file.write(text)
 
-
 def main():
     # Example of using functions
     output_text = "This is an example of text that can be output to the console or written to a file."
