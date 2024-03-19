@@ -1,4 +1,4 @@
-#!/Users/aleksandrpunko/PycharmProjects/project_template/.venv/bin/python
+#!/Users/aleksandrpunko/PycharmProjects/project_template/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
