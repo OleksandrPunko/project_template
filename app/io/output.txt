@@ -1,0 +1,1 @@
+This is an example of text that can be output to the console or written to a file.
